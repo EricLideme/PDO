@@ -1,2 +1,3 @@
 # PDO
- Praticando Mysql no PHP 
+
+Praticando Mysql no PHP
