@@ -2,9 +2,7 @@
 
 require 'classPessoa.php';
 
-$p = new Pessoa("crudpdo", "localhost", "root", "");  
-
-
+$p = new Pessoa("crudpdo", "localhost", "root", ""); 
 
 ?>
 
